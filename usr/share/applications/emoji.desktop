@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=emoji+
+Exec=python3 /usr/bin/emoji.py
+Icon=emoji
+Type=Application
+Terminal=false
+Categories=Utility;
+Comment=drag and drop emojis to use.
